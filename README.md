@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of xmugenx/flarum-ext-post-blacklist.** Not for installation: use [Packagist](https://packagist.org/packages/xmugenx/flarum-ext-post-blacklist) or the [upstream repository](https://github.com/xmugenx/flarum-ext-post-blacklist).
 
-**0** versions archived · Latest: [`0.1.4`](https://github.com/flarchive/xmugenx-flarum-ext-post-blacklist/tree/archive/v0.1.4) · License: `MIT` · Flarum: `>=0.1.0-beta.10 <0.1.0-beta.12`
+**5** versions archived · Latest: [`0.1.4`](https://github.com/flarchive/xmugenx-flarum-ext-post-blacklist/tree/archive/v0.1.4) · License: `MIT` · Flarum: `>=0.1.0-beta.10 <0.1.0-beta.12`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2019-10-21 | `^0.1.0` | [Browse](https://github.com/flarchive/xmugenx-flarum-ext-post-blacklist/tree/archive/v0.1.0) |
+| `0.1.1` | 2019-10-21 | `^0.1.0` | [Browse](https://github.com/flarchive/xmugenx-flarum-ext-post-blacklist/tree/archive/v0.1.1) |
+| `0.1.2` | 2019-10-21 | `>=0.1.0-beta.10 <0.1.0-beta.12` | [Browse](https://github.com/flarchive/xmugenx-flarum-ext-post-blacklist/tree/archive/v0.1.2) |
+| `0.1.3` | 2019-10-24 | `>=0.1.0-beta.10 <0.1.0-beta.12` | [Browse](https://github.com/flarchive/xmugenx-flarum-ext-post-blacklist/tree/archive/v0.1.3) |
+| `0.1.4` | 2019-10-24 | `>=0.1.0-beta.10 <0.1.0-beta.12` | [Browse](https://github.com/flarchive/xmugenx-flarum-ext-post-blacklist/tree/archive/v0.1.4) |
 
 Catalog entry: [packages/xmugenx-flarum-ext-post-blacklist.json](https://github.com/flarchive/archive-index/blob/main/packages/xmugenx-flarum-ext-post-blacklist.json)
 
